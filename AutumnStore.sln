@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutumnStoreBasket", "AutumnStoreBasket\AutumnStoreBasket.csproj", "{4495EB0B-4343-40F7-B4B0-877AC7C93653}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2F82EE88-56A2-4D2E-88A2-8B12E1A391B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4495EB0B-4343-40F7-B4B0-877AC7C93653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4495EB0B-4343-40F7-B4B0-877AC7C93653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4495EB0B-4343-40F7-B4B0-877AC7C93653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4495EB0B-4343-40F7-B4B0-877AC7C93653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62486CBC-53F8-4679-A438-214ECA56F8E5}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4495EB0B-4343-40F7-B4B0-877AC7C93653} = {2F82EE88-56A2-4D2E-88A2-8B12E1A391B6}
+	EndGlobalSection
+EndGlobal
